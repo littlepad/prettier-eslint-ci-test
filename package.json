@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/littlepad/prettier-eslint-test/issues"
   },
-  "homepage": "https://github.com/littlepad/prettier-eslint-test#readme"
+  "homepage": "https://github.com/littlepad/prettier-eslint-test#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
 }
