@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/littlepad/prettier-eslint-test#readme",
   "devDependencies": {
-    "eslint": "^4.16.0"
+    "eslint": "^4.16.0",
+    "prettier-eslint-cli": "^4.7.0"
   }
 }
